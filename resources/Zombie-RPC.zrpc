@@ -1,6 +1,6 @@
-ClientID: 1502971454382145667
-Details: Definitely not procrastinating
-State: 
+ClientID: YOUR_DISCORD_CLIENT_ID
+Details: Using Zombie-RPC
+State: Editing rich presence
 ActivityType: 5
 TimerMode: 0
 Days: 0
@@ -12,9 +12,9 @@ LargeImageText:
 SmallImageKey: 
 SmallImageText: 
 PartyID: 
-PartySize: 69
-PartyMax: 420
-Button1Label: My Website
-Button1URL: https://entity-wiki.pages.dev/
-Button2Label: My Steam
-Button2URL: https://steamcommunity.com/id/SableMikaelaYuriCollection/
+PartySize: 1
+PartyMax: 5
+Button1Label: Website
+Button1URL: https://example.com/
+Button2Label: Profile
+Button2URL: https://example.com/profile
