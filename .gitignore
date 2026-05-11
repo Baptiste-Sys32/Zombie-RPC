@@ -1,0 +1,33 @@
+# Visual Studio Temporary Files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Output Directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+out/
+
+# Intermediate Files
+ipch/
+*.aps
+*.intermediate.manifest
+*.pdb
+*.tlog
+*.lastbuildstate
+*.idb
+*.obj
+*.ilk
+*.res
+*.pch
+
+# Compiled Binaries (Optional - usually you want to build from source)
+*.exe
+*.dll
+# Exception: required embedded resource
+!resources/discord-rpc.dll

@@ -1,0 +1,6 @@
+#include "resource.h"
+
+IDI_MAIN_ICON ICON "resources/icon.ico"
+IDR_DISCORD_DLL RCDATA "resources/discord-rpc.dll"
+IDR_DEFAULT_PRESET      RCDATA      "resources\\Zombie-RPC.zrpc"
+IDR_ALWAYS_WATCHING_PRESET RCDATA   "resources\\Always Watching.zrpc"

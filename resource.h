@@ -1,0 +1,5 @@
+#pragma once
+#define IDI_MAIN_ICON 101
+#define IDR_DISCORD_DLL 102
+#define IDR_DEFAULT_PRESET 103
+#define IDR_ALWAYS_WATCHING_PRESET 104

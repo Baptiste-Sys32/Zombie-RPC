@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Discord-RPC.vcxproj" Id="2cb95a2d-17fb-411a-b3b3-262ba1f6bb08" />
+</Solution>
