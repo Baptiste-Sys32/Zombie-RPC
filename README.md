@@ -1,27 +1,7 @@
-# Zombie-RPC
+# Zombie Rich Presence Controller (Zombie-RPC)
 
-Simple Discord Rich Presence controller for Windows.
+Zombie-RPC is a lightweight, high-performance Windows desktop application built with C++17, DirectX 11, and Dear ImGui. It provides an interactive interface to configure, control, and save custom Discord Rich Presence (RPC) states, enabling custom titles, details, button actions, image assets, and timestamps without managing manual scripting wrappers or tokens.
 
-## Features
+## License
 
-- Edit client ID, state, details, party size, and image keys.
-- Add up to two buttons with URLs.
-- Use elapsed or remaining timestamps.
-- Save and load `.zrpc` profiles.
-- Minimize to the system tray.
-- Optionally run on Windows startup.
-
-## Build
-
-1. Open `Discord-RPC.slnx` in Visual Studio 2022.
-2. Select `Release | x64`.
-3. Build the solution.
-
-The app uses C++17, Win32, DirectX 11, Dear ImGui, and Discord RPC.
-
-## Notes
-
-- Profiles are stored in `%appdata%\Zombie-RPC\Profiles`.
-- You need a Discord application client ID from the Discord Developer Portal.
-- Image keys must match the asset names in your Discord application.
-- The app does not use Discord tokens.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
